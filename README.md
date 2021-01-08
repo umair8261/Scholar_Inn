@@ -1,5 +1,5 @@
 <h1>Scholar Inn app<h1/><br> 
-<p>This is Simple student management system build in java and Firebase android application ,its application take all the operation like Add Student, Search Student, delete Student and update student record.<p/>
+<p>This is Simple student management system build in java and Firebase android application ,this application take all the operation like Add_Student, Search_Student, Delete_Student and Update_Student record.<p/>
 <br>
 
 <h3>Animations used in app<h3/>
